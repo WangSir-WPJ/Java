@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/DS/ArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/ArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Generics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Generics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Map_Set/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Map_Set/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/OJ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/OJ/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/PriorityQueue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/PriorityQueue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Queue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Sort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Sort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Stack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/Tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MySQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MySQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
